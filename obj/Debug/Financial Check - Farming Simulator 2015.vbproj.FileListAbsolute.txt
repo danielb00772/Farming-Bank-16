@@ -1,0 +1,18 @@
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\Financial Check - Farming Simulator 2015.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\Financial Check - Farming Simulator 2015.vbproj.GenerateResource.Cache
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\bin\Debug\Farming Bank 2016.exe.config
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\bin\Debug\Farming Bank 2016.exe
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\bin\Debug\Farming Bank 2016.pdb
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\bin\Debug\Farming Bank 2016.xml
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.console.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.Form1.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.loadindicator.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.messageform.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.Resources.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.splash.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\Farming Bank 2016.exe
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\Farming Bank 2016.xml
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\Farming Bank 2016.pdb
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.appsettings.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.UIselector.resources
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\Debug\FarmingBank.fb16.resources

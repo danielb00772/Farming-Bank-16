@@ -1,0 +1,80 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Customer</Value>
+    </Setting>
+    <Setting Name="map01" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Bjornholm</Value>
+    </Setting>
+    <Setting Name="map02" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Westbridge Hills</Value>
+    </Setting>
+    <Setting Name="map03" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sosnovka</Value>
+    </Setting>
+    <Setting Name="languagesetEN" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="languagesetDE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="languagesetNL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sessionsave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="wizardsteps" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="access_vehicle_data" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\vehicles.accdb&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\vehicles.accdb</Value>
+    </Setting>
+    <Setting Name="Asave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Psave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="autologin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="eu" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pd" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="dol" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="maxset" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sync_i" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sync_a" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="sync_m" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ipadr" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="unet" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="moneychar" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

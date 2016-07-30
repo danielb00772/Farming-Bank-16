@@ -1,0 +1,4 @@
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\bin\x86\Debug\Farming Bank 2016.exe.config
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\x86\Debug\Interop.DXTMSFTLib.dll
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\x86\Debug\Interop.DXTRANSLib.dll
+C:\Users\Daniel Berends\Documents\Visual Studio 2015\Projects\fc-fs15\Financial Check - Farming Simulator 2015\obj\x86\Debug\Farming Bank.vbproj.ResolveComReference.cache
