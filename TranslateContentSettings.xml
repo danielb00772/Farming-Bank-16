@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- 
+    <Farming Bank 16 . A mod for the fs15 game>
+    Copyright (C) <2016>  <Daniel Berends>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<!--Language's are: English,German and Dutch-->
+<!-- ==== -->
+
+
+<!-- A = 1 , B = 2 , and so on-->
+<!-- FormText translation-->
+<ProgramTranslations translations="3">
+  <!-- Wizard -->                                       <!-- ======= English Translation BEGIN ======= -->
+  <ENWizard>
+    <ENFormText>
+      <A-EN>Farming Bank 16 Beta 0.2 - First Steps</A-EN>                                                            
+    </ENFormText>
+    <ENHeader>
+      <A-EN>Welcome ! Let's start with the options underneath</A-EN>
+      <B-EN>Hi ,</B-EN>
+      <C-EN>Where am I ?</C-EN>
+      <D-EN>That's it ! We try to generate a financial profile</D-EN>
+    </ENHeader>
+    <ENElements>
+      <A-ENBtn>Next</A-ENBtn>
+      <B-ENBtn>Preverious</B-ENBtn>
+      <C-ENBtn>Cancel</C-ENBtn>
+      <D-ENBtn>I Agree</D-ENBtn>
+    </ENElements>
+  </ENWizard>
+  <!-- Loginform -->
+  <ENLogin>
+    <ENFormText>
+      <A-EN>Sign In</A-EN>
+      <B-EN>Register bank account</B-EN>
+    </ENFormText>
+      <ENHeader>
+      <A-EN>Generate bank account</A-EN>
+    </ENHeader>
+      <ENElements>
+      <A-ENBtn>Done ,Let's start</A-ENBtn>
+    </ENElements>
+  </ENLogin>
+                                                        <!-- ======= German Translation BEGIN ======= -->
+    <DEWizard>
+    <DEFormText>
+      <A-DE>Farming Bank 2015 - Erste schritte</A-DE>                                                            
+    </DEFormText>
+    <DEHeader>
+      <A-DE>Um Fortzufahren, wähle bitte deine Sprache</A-DE>
+      <B-DE>Hallo ,</B-DE>
+      <C-DE>Wo befinde ich mich ?</C-DE>
+      <D-DE>Das wahr es auch schon! Generiere Finanz Übersicht</D-DE>
+    </DEHeader>
+    <DEElements>
+      <A-DEBtn>Weiter</A-DEBtn>
+      <B-DEBtn>Zurück</B-DEBtn>
+      <C-DEBtn>Abbrechen</C-DEBtn>
+      <D-DEBtn>Ich stimme zu</D-DEBtn>
+    </DEElements>
+  </DEWizard>
+
+                                                        <!-- ======= Dutch Translation BEGIN ======= -->
+    <NLWizard>
+    <NLFormText>
+      <A-NL>Farming Bank 2015 - Eerste stappen</A-NL>                                                            
+    </NLFormText>
+    <NLHeader>
+      <A-NL>Kies éérst uw taal om vervolgens verder te gaan</A-NL>
+      <B-NL>Hoi ,</B-NL>
+      <C-NL>Waar ben ik?</C-NL>
+      <D-NL>Klaar! We proberen een financieel profiel aan te leggen</D-NL>
+    </NLHeader>
+    <NLElements>
+      <A-NLBtn>Volgende</A-NLBtn>
+      <B-NLBtn>Terug</B-NLBtn>
+      <C-NLBtn>Sluiten</C-NLBtn>
+      <D-NLBtn>Accepteren</D-NLBtn>
+    </NLElements>
+  </NLWizard>
+
+</ProgramTranslations>
